@@ -4,7 +4,7 @@ import java.util.Stack;
 public class ValidPera {
 
     public static void main(String[] args) {
-        String str = "[{([{])}]";
+        String str = "[]{}(){";
 
         Stack<Character> s1 = new Stack<>();
 

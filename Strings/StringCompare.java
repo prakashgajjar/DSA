@@ -18,6 +18,6 @@ public class StringCompare {
                 return 1;
             }
         }
-        if(str1.length() )
+        
     }
 }
